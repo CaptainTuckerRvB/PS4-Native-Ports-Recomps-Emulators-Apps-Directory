@@ -1,6 +1,6 @@
 # Awesome PS4 Homebrew
 
-A curated list of ports, recompilations, emulators, applications, plugins, online services, and development tools for jailbroken PlayStation 4 consoles.
+A curated list of native ports, recompilations, emulators, applications, plugins, services, and development tools for jailbroken PlayStation 4 consoles.
 
 ---
 
@@ -11,16 +11,15 @@ A curated list of ports, recompilations, emulators, applications, plugins, onlin
 | 🎮 Native Ports & Recomps | 11 |
 | 🕹️ Emulators | 7 |
 | ☁️ Streaming Clients | 1 |
-| 📺 Media Applications | 2 |
-| 📦 Homebrew Applications | 7 |
+| 📺 Media Applications | 3 |
+| 📦 Homebrew Applications | 9 |
 | 🔧 System Utilities | 3 |
 | 🧩 GoldHEN Plugins | 4 |
-| 🌐 Online Services | 2 |
+| 🌐 Online Services | 3 |
 | 🧰 Developer Tools | 6 |
 | 🔓 Core Platform | 4 |
-| 👀 Future Watchlist | 8 |
 
-**Total Tracked Projects: 55**
+**Total Tracked Projects: 51**
 
 ---
 
@@ -34,7 +33,7 @@ These projects form the foundation of the modern PS4 homebrew ecosystem.
 - FTP Server
 - Cheat Engine
 - FPS Counter
-- Remote Package Install
+- Remote Package Installation
 - Debug Settings
 
 ### [OpenOrbis PS4 Toolchain](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain)
@@ -44,7 +43,7 @@ These projects form the foundation of the modern PS4 homebrew ecosystem.
 ### [LibOrbisPkg](https://github.com/OpenOrbis/LibOrbisPkg)
 - PKG Builder
 - PKG Editor
-- SFO Tools
+- Package Inspection Tools
 
 ### [OrbisForge](https://github.com/xeghosted/OrbisForge)
 - OpenOrbis Project Wizard
@@ -70,8 +69,9 @@ These projects form the foundation of the modern PS4 homebrew ecosystem.
 - Source Port
 - Latest Version: 1.5.5
 
-**PS4 PKG**
-- https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-ps4.pkg
+**Downloads**
+- Repository: https://github.com/diasurgical/DevilutionX
+- PS4 PKG: https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-ps4.pkg
 
 ### [Conker-PS4](https://github.com/iHaiDeeZ/Conker-PS4)
 - Conker's Bad Fur Day
@@ -85,7 +85,7 @@ These projects form the foundation of the modern PS4 homebrew ecosystem.
 - Super Mario Bros. Wonder
 - Static Recompilation
 - SMW Maker
-- GUI-based Build System
+- GUI-Based Build System
 
 ---
 
@@ -123,7 +123,7 @@ These projects form the foundation of the modern PS4 homebrew ecosystem.
 ## 🟢 Active
 
 ### [DolphinPS4](https://github.com/iHaiDeeZ/DolphinPS4)
-- GameCube / Wii
+- Nintendo GameCube / Wii
 
 ### [PS4SX2](https://github.com/iHaiDeeZ/PS4SX2)
 - PlayStation 2
@@ -150,7 +150,7 @@ These projects form the foundation of the modern PS4 homebrew ecosystem.
 # ☁️ Streaming Clients
 
 ### [XCloud4](https://github.com/asp11edgr/XCloud4)
-- Xbox Cloud Gaming
+- Native Xbox Cloud Gaming Client
 - 1080p60 Streaming
 - DualShock 4 Support
 
@@ -166,6 +166,14 @@ These projects form the foundation of the modern PS4 homebrew ecosystem.
 - OpenOrbis UI
 - H.264 Playback
 
+### [GMCA](https://github.com/thcolin/gamepad-media-center-aggregator)
+- Gamepad Media Center Aggregator
+- Plex Support
+- Jellyfin Support
+- Emby Support
+- Stremio Support
+- FTP / SFTP / WebDAV Support
+
 ---
 
 # 📦 Homebrew Applications
@@ -173,7 +181,7 @@ These projects form the foundation of the modern PS4 homebrew ecosystem.
 ### [Apollo Save Tool](https://github.com/bucanero/apollo-ps4)
 - Save Manager
 - Save Resigning
-- Trophy Tools
+- Trophy Management
 - Account Activation
 
 ### [PS4-Xplorer](https://github.com/Lapy05575948/PS4-Xplorer)
@@ -192,25 +200,38 @@ These projects form the foundation of the modern PS4 homebrew ecosystem.
 
 ### [Itemzflow](https://github.com/LightningMods/Itemzflow)
 - Game Launcher
+- Package Manager
 - Library Manager
-- Package Management
+- Cover Art Support
 
 ### [Remote PKG Installer](https://codeberg.org/rawblue33/Remote-PKG-Installer-v3.53/releases)
-- Install PKGs Over Network
+- Network PKG Installation
 - Latest Version: 3.53
 
 ### [Orbis Toolbox](https://github.com/OSM-Made/Orbis-Toolbox)
 - Advanced System Utility
 - GoldHEN Companion Tool
 
+### [PS MTP Explorer](https://github.com/nueex/ps-mtp-explorer)
+- Android → PS4 Transfers
+- USB MTP File Manager
+- Direct PKG Installation
+- Internal HDD Browser
+
+### [ezRemote Client](https://github.com/cy33hc/ps4-ezremote-client)
+- FTP / SFTP / SMB / NFS / WebDAV
+- Google Drive Support
+- Background Downloads
+- Background PKG Installation
+
 ---
 
 # 🔧 System Utilities
 
 ### [Xbox Controller Plugin](https://github.com/ChiricoG/xbox_controller_plugin)
-- Xbox 360 Support
-- Xbox One Support
-- Xbox Series Support
+- Xbox 360 Controller Support
+- Xbox One Controller Support
+- Xbox Series Controller Support
 - Nintendo Switch Controller Support
 
 ### [ps4-bt-audio](https://github.com/XB-01/ps4-bt-audio)
@@ -226,8 +247,9 @@ These projects form the foundation of the modern PS4 homebrew ecosystem.
 
 ### [VCFG](https://github.com/Melnikoff07/vcfg)
 - Optical Flow Frame Generation
-- 30 FPS → 60 Hz
-- Latest Version: v2.34
+- Converts Supported 30 FPS Games to 60 Hz Output
+- FPS Counter
+- In-Game Overlay
 
 ### [Xbox Controller Plugin](https://github.com/ChiricoG/xbox_controller_plugin)
 - Controller Compatibility Plugin
@@ -248,6 +270,25 @@ These projects form the foundation of the modern PS4 homebrew ecosystem.
 
 ### [Pyrite](https://github.com/OrbisNet/Pyrite)
 - Alternative GoldHEN Plugin Repository
+
+### [XeMoNet](https://xemoistiesgames.com/)
+- Community Multiplayer Restoration Network
+- Supports PS4, PS5, PS3, and Xbox 360
+- Restores Online Functionality for Supported Games
+
+**Supported Games Include**
+- GTA V
+- Minecraft PS4 Edition
+- Terraria
+- Assetto Corsa
+- Project CARS Series
+- Tekken 7
+- Helldivers
+- The Forest
+- Resident Evil Series
+- Castle Crashers Remastered
+- Ace Combat 7
+- And Many More
 
 ---
 
@@ -284,43 +325,40 @@ These projects form the foundation of the modern PS4 homebrew ecosystem.
 
 # 👀 Future Watchlist
 
-Recompilation, decompilation, and engine-reimplementation projects that could potentially become future PS4 homebrew ports.
+Recompilation, decompilation, and engine reimplementation projects that could potentially become future PS4 homebrew ports.
 
 > Inclusion does not imply a PS4 version is planned.
 
 ## 🟢 High Interest
 
 ### [OpenGOAL (Jak Trilogy)](https://github.com/open-goal/jak-project)
-- Original Platform: PlayStation 2
+- Platform: PlayStation 2
 - Type: Decompilation / Native Engine Recreation
 - Includes:
   - Jak and Daxter
   - Jak II
   - Jak 3
-- Strong OpenOrbis candidate
 
 ### [Ace Combat 5 Static Recompilation](https://github.com/sal063/Ace-Combat-5-Static-recompilation)
-- Original Platform: PlayStation 2
+- Platform: PlayStation 2
 - Type: Static Recompilation
-- Good fit for PS4 hardware
 
 ### [Chronicle (Dark Cloud)](https://github.com/TheMoonPeople/Chronicle)
-- Original Platform: PlayStation 2
+- Platform: PlayStation 2
 - Type: Native Engine Recreation
-- Focused on Dark Cloud
 
 ## 🟡 Worth Monitoring
 
 ### Future N64Recomp Projects
-- Conker-PS4 has already demonstrated viability.
-- RT64 and Vulkan-based rendering are proven on PS4.
+- Proven viable through Conker-PS4
+- RT64 rendering path can be adapted to PS4
 
 ### Future N64 Decompilation Projects
-- Similar path to Ship of Harkinian and 2Ship2Harkinian.
+- Similar path to Ship of Harkinian and 2Ship2Harkinian
 
 ### Future PS2 Static Recompilation Projects
-- Growing ecosystem.
-- Strong fit for PS4 hardware.
+- Growing ecosystem
+- Excellent fit for PS4 hardware
 
 ## 🎯 Most Likely Future PS4 Ports
 
@@ -331,4 +369,4 @@ Recompilation, decompilation, and engine-reimplementation projects that could po
 5. Chronicle (Dark Cloud)
 6. Future N64Recomp Projects
 7. Future N64 Decompilation Projects
-8. Future PS2 Static Recompilation
+8. Future PS2 Static Recompilation Projects
