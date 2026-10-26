@@ -1,25 +1,27 @@
 # PS4 Native Ports, Recomps, Emulators & Apps Directory
-A directory to keep track of all the ports to the jailbroken PS4 scene
 
+A curated directory of native ports, recompilations, decompilations, emulators, utilities, services, and applications available for the jailbroken PlayStation 4 scene.
 
 ## Status Legend
 
-- 🟢 Released
-- 🔵 Pre-Release / Playable
-- 🟡 In Progress
-- 🛠 Self-Compile
-- 🛠+ GUI Builder
-- ⛔ Paused / Stalled
+| Status | Meaning |
+|----------|----------|
+| 🟢 | Released |
+| 🔵 | Playable / Pre-Release |
+| 🟡 | In Progress |
+| 🛠 | Self-Compile |
+| 🛠+ | Self-Compile with GUI Builder |
+| ⛔ | Paused / Stalled |
 
 ---
 
-# 📂 Directory
+# 📂 Project Directory
 
-## 🎮 Native Ports / Recomps
+## 🎮 Native Ports & Recomps
 
 - [shipofharkinian-ps4](https://github.com/alechurri/shipofharkinian-ps4)
 - [2ship2harkinian-ps4](https://github.com/alechurri/2ship2harkinian-ps4)
-- DevilutionX PS4
+- [DevilutionX PS4](https://github.com/diasurgical/DevilutionX)
 - [Conker-PS4](https://github.com/iHaiDeeZ/Conker-PS4)
 - [SMW](https://github.com/iHaiDeeZ/SMW)
 - [BOTW](https://github.com/iHaiDeeZ/BOTW)
@@ -27,8 +29,7 @@ A directory to keep track of all the ports to the jailbroken PS4 scene
 - [SSBU](https://github.com/iHaiDeeZ/SSBU)
 - [OpenCE-PS4](https://github.com/iHaiDeeZ/OpenCE-PS4)
 - [G-Diffuser-PS4](https://github.com/iHaiDeeZ/G-Diffuser-PS4)
-
----
+- [skate3-ps4](https://github.com/OnlyMoisties/skate3-ps4)
 
 ## 🕹️ Emulators
 
@@ -40,140 +41,69 @@ A directory to keep track of all the ports to the jailbroken PS4 scene
 - [HENkaku-PS4](https://github.com/iHaiDeeZ/HENkaku-PS4)
 - [xemu-ps4](https://github.com/iHaiDeeZ/xemu-ps4)
 
----
-
 ## ☁️ Streaming Clients
 
 - [XCloud4](https://github.com/asp11edgr/XCloud4)
-
----
 
 ## 📺 Media Applications
 
 - [JellyFin-PS4](https://github.com/jw-notes/JellyFin-PS4)
 - [stremio-ps4-native](https://github.com/JavaScript-X/stremio-ps4-native)
 
----
+## 🔧 System Utilities
 
-# 🔧 System Utilities & Enhancements
+- [ps4-bt-audio](https://github.com/XB-01/ps4-bt-audio)
+- [HearBridge-PS4](https://github.com/X-F1REBALL-X/HearBridge-PS4)
+- [Xbox Controller Plugin](https://github.com/ChiricoG/xbox_controller_plugin)
 
-## 🔵 Experimental
+## 🌐 Online Services
 
-### ps4-bt-audio
-- Type: Bluetooth Audio Utility
-- Platform: PS4 (GoldHEN)
-- Status: Experimental
-- Repository: https://github.com/XB-01/ps4-bt-audio
-- Purpose:
-  - Enable Bluetooth audio support on jailbroken PS4 consoles.
-  - Connect Bluetooth headphones and speakers for game audio.
-- Notes:
-  - Alternative approach to Bluetooth audio on PS4.
-  - Intended for users who want native wireless audio support.
+- [OrbisNet](https://orbisnet.app/en/)
+- [Pyrite](https://github.com/OrbisNet/Pyrite)
 
-### HearBridge-PS4
-- Type: Bluetooth Audio Utility
-- Platform: PS4 (GoldHEN)
-- Status: In Progress
-- Repository: https://github.com/X-F1REBALL-X/HearBridge-PS4
-- Features:
-  - Bluetooth audio streaming.
-  - Headphone pairing and management.
-  - Web-based control panel.
-  - DSP features including EQ and volume boost.
-  - Automatic reconnect support.
-- Requirements:
-  - CSR8510 USB Bluetooth adapter.
-  - GoldHEN Plugin Loader enabled. 【1-18a60a】
+## 🧰 Developer Tools & Infrastructure
+
+- OpenGNM
+- Vulkan-PS4
+- NX-on-Orbis
 
 ---
 
-# 🌐 Online Services
-
-## 🟡 Active Development
-
-### OrbisNet
-- Type: Community Online Service
-- Platform: Jailbroken PS4
-- Website: https://orbisnet.app/en/
-- Status: Active Development
-- Purpose:
-  - Community-operated alternative to PSN functionality for homebrew consoles.
-  - Online multiplayer experimentation.
-  - Peer-to-peer networking between jailbroken PS4 consoles.
-  - Infrastructure for future community services. 【2-5c74f7】【3-dcf912】
-
-### Pyrite
-- Type: Plugin Infrastructure
-- Status: Work In Progress
-- Repository: https://github.com/OrbisNet/Pyrite
-- Description:
-  - Alternative plugin repository ecosystem for GoldHEN.
-  - Community-driven project hosted by Orbis Net. 【4-829efe】
-
----
-
-# 🧰 Developer Tools & Infrastructure
-
-## 🟡 Active Development
-
-### OpenGNM
-- Type: Graphics Framework
-- Purpose:
-  - Open implementation of PS4 graphics functionality.
-  - Foundation for future native ports and recompilations.
-
-### Vulkan-PS4
-- Type: Graphics Translation Layer
-- Purpose:
-  - Vulkan support for PS4 homebrew development.
-  - Simplifies porting modern graphics engines.
-
-### NX-on-Orbis
-- Type: Runtime / Compatibility Layer
-- Purpose:
-  - Research project focused on running Nintendo Switch software on PS4.
-
-### Pyrite
-- Type: Plugin Ecosystem
-- Purpose:
-  - Community plugin distribution framework.
-  - Alternative to existing GoldHEN plugin repositories. 【4-829efe】
-
-# 🎮 Native Ports / Recomps Tracker
+# 🎮 Native Ports & Recomps
 
 ## 🟢 Released
 
-### shipofharkinian-ps4
+### Ship of Harkinian PS4
 - Game: The Legend of Zelda: Ocarina of Time
-- Original System: Nintendo 64
+- Original Platform: Nintendo 64
 - Type: Decompilation Port
-- Requires Dump: Yes
-- OpenOrbis: Yes
-- Releases Available: Yes
+- Requires Game Dump
+- OpenOrbis Supported
 
-### 2ship2harkinian-ps4
+### 2Ship2Harkinian PS4
 - Game: The Legend of Zelda: Majora's Mask
-- Original System: Nintendo 64
+- Original Platform: Nintendo 64
 - Type: Decompilation Port
-- Requires Dump: Yes
-- OpenOrbis: Yes
-- Releases Available: Yes
+- Requires Game Dump
+- OpenOrbis Supported
 
 ### DevilutionX PS4
 - Game: Diablo / Hellfire
-- Original System: PC
+- Original Platform: PC
 - Type: Source Port
-- Requires Assets: Yes
-- Latest Version: 1.5.5
+- Version: 1.5.5
+- Requires Original Game Assets
+
+**Downloads**
+- Repository: https://github.com/diasurgical/DevilutionX
+- PS4 Package: https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-ps4.pkg
 
 ### Conker-PS4
 - Game: Conker's Bad Fur Day
-- Original System: Nintendo 64
+- Original Platform: Nintendo 64
 - Type: N64Recomp + RT64
-- Requires ROM: Yes
 - Latest Release: v00.13
-- Public Releases: Yes
+- Requires ROM
 
 ---
 
@@ -181,27 +111,23 @@ A directory to keep track of all the ports to the jailbroken PS4 scene
 
 ### SMW
 - Game: Super Mario Bros. Wonder
-- Original System: Nintendo Switch
+- Original Platform: Nintendo Switch
 - Type: Static Recompilation
-- Status: Self-Compile
 - Builder: SMW Maker
-- Requires Dump: Yes
+- Requires User Dump
 - Latest Release: v00.30
 - FSR1 Support
 - 4 Player Support
-- GUI-based automated build process
+- One-click GUI-based build process
 - Optional FTP deployment
-- No prebuilt game package distributed
 
 ---
 
-## 🔵 Pre-Release / Playable
+## 🔵 Playable / Pre-Release
 
 ### BOTW
 - Game: The Legend of Zelda: Breath of the Wild
-- Original System: Nintendo Switch
-- Type: Static Recompilation
-- Requires Dump: Yes
+- Original Platform: Nintendo Switch
 - Latest Release: v00.20
 - Saves Working
 - Sound Working
@@ -210,9 +136,7 @@ A directory to keep track of all the ports to the jailbroken PS4 scene
 
 ### TOTK-PS4
 - Game: The Legend of Zelda: Tears of the Kingdom
-- Original System: Nintendo Switch
-- Type: Static Recompilation
-- Requires Dump: Yes
+- Original Platform: Nintendo Switch
 - Development Stopped at v00.72
 - Loads Saves
 - Sound Working
@@ -220,22 +144,29 @@ A directory to keep track of all the ports to the jailbroken PS4 scene
 
 ### SSBU
 - Game: Super Smash Bros. Ultimate
-- Original System: Nintendo Switch
-- Type: Static Recompilation
-- Requires Dump: Yes
-- No Public Releases
+- Original Platform: Nintendo Switch
 - Matches Playable
 - DXVK → Vulkan → RADV
+- No Public Releases
 
 ### OpenCE-PS4
-- Game: Halo Combat Evolved
-- Original System: Xbox
-- Type: Decompiled Native Port
-- Requires Game Data: Yes
-- Native Code Execution
+- Game: Halo: Combat Evolved
+- Original Platform: Xbox
+- Native Decompiled Port
 - 1080p Support
 - DualShock 4 Support
-- No Public Releases
+
+### skate3-ps4
+- Game: Skate 3
+- Original Platform: Xbox 360
+- Type: Static Recompilation
+- Fully Playable
+- Free Roam Working
+- Career Working
+- PS4 Keyboard Support
+- ~60 FPS Light Scenes
+- ~30-40 FPS Heavy Scenes
+- Requires User-Owned Skate 3 Dump
 
 ---
 
@@ -243,51 +174,47 @@ A directory to keep track of all the ports to the jailbroken PS4 scene
 
 ### G-Diffuser-PS4
 - Game: F-Zero X + Expansion Kit
-- Original System: Nintendo 64 / 64DD
+- Original Platform: Nintendo 64 / 64DD
 - Type: Source Port
-- Requires Game Data: Yes
 - Vulkan / RADV / GNM
 
 ---
 
-# 🕹️ Emulator Tracker
+# 🕹️ Emulators
 
 ## 🟢 Active
 
 ### DolphinPS4
-- Emulator: GameCube / Wii
-- Based On: Dolphin
+- GameCube / Wii Emulator
+- Based on Dolphin
 
 ### PS4SX2
-- Emulator: PlayStation 2
-- Based On: PCSX2 / PS5SX2
+- PlayStation 2 Emulator
+- Based on PCSX2 / PS5SX2
 
 ### M33
-- Emulator: PSP
-- Based On: PPSSPP
+- PSP Emulator
+- Based on PPSSPP
 
 ### Resonance
-- Emulator: Dreamcast
-- Based On: Flycast
+- Dreamcast Emulator
+- Based on Flycast
 
 ### Crema
-- Emulator: Wii U
-- Based On: Cemu
+- Wii U Emulator
+- Based on Cemu
 
 ### HENkaku-PS4
-- Emulator: PlayStation Vita
-- Based On: Vita3K
-
----
+- PlayStation Vita Emulator
+- Based on Vita3K
 
 ## ⛔ Paused
 
 ### xemu-ps4
-- Emulator: Original Xbox
-- Based On: xemu
-- Current State:
-  - Halo 2 reaches title screen
-  - ~1 FPS
+- Original Xbox Emulator
+- Based on xemu
+- Boots Halo 2 to title screen
+- ~1 FPS
 
 ---
 
@@ -296,14 +223,13 @@ A directory to keep track of all the ports to the jailbroken PS4 scene
 ## 🟢 Public Beta
 
 ### XCloud4
-- Type: Native Xbox Cloud Gaming Client
-- Built With: OpenOrbis
-- Latest Public Version: 1.1.0 Beta
+- Native Xbox Cloud Gaming Client
+- Built with OpenOrbis
 - 1080p60 Streaming
 - DualShock 4 Support
 - Rumble Support
-- QR-Code Sign-In
-- Requires Xbox Game Pass Ultimate / Cloud Gaming
+- QR Code Login
+- Requires Xbox Game Pass Ultimate
 
 ---
 
@@ -312,68 +238,105 @@ A directory to keep track of all the ports to the jailbroken PS4 scene
 ## 🟡 In Progress
 
 ### JellyFin-PS4
-- Type: Native Jellyfin Client
+- Native Jellyfin Client
 - Latest Known Version: v1.09
 - Public Releases Available
-- PS4 Version Usable
-- Still Under Active Development
-
----
+- Usable but Under Active Development
 
 ## 🔵 Pre-Release
 
 ### stremio-ps4-native
-- Type: Native Stremio Client
-- Platform: PS4 (GoldHEN)
+- Native Stremio Client
 - Latest Tagged Version: v1.0
-- GitHub Releases: None
 - Active Development
-- Native OpenOrbis UI
-- DualShock 4 Navigation
-- Search / Metadata / Episode Selection
+- OpenOrbis UI
+- Search & Metadata Support
 - H.264 Playback Functional
-- Additional Codec Support Still In Progress
+- No Official Releases Yet
 
 ---
 
+# 🔧 System Utilities
+
+## 🟢 Released
+
+### Xbox Controller Plugin
+- Latest Release: v1.4.1
+- Xbox 360 Controller Support
+- Xbox One Controller Support
+- Xbox Series X|S Controller Support
+- Xbox Elite Controller Support
+- Nintendo Switch Controller Support
+- GoldHEN Compatible
+
+## 🔵 Experimental
+
+### ps4-bt-audio
+- Native Bluetooth Audio Utility
+- Enables Bluetooth Audio Devices on PS4
+
+### HearBridge-PS4
+- Bluetooth Audio Streaming
+- Web-Based Device Management
+- Auto Reconnect Support
+- CSR8510 USB Bluetooth Adapter Support
+
 ---
 
-# 📊 Updated Project Totals
+# 🌐 Online Services
 
-## Native Ports / Recomps
-- 🟢 Released: 4
-- 🛠+ GUI Builder: 1
-- 🔵 Pre-Release: 4
-- 🟡 In Progress: 1
+## 🟡 Active Development
 
-## Emulators
-- 🟢 Active: 6
-- ⛔ Paused: 1
+### OrbisNet
+- Community PSN Alternative
+- Peer-to-Peer Connectivity
+- Multiplayer Research
+- Online Services for Jailbroken Consoles
 
-## Streaming Clients
-- 🟢 Public Beta: 1
+### Pyrite
+- Alternative GoldHEN Plugin Repository
+- Community Driven
+- Work In Progress
 
-## Media Applications
-- 🟡 In Progress: 1
-- 🔵 Pre-Release: 1
+---
 
-## System Utilities & Enhancements
-- 🔵 Experimental: 2
+# 🧰 Developer Tools & Infrastructure
 
-## Online Services
-- 🟡 Active Development: 2
+## 🟡 Active Development
 
-## Developer Tools & Infrastructure
-- 🟡 Active Development: 4
+### OpenGNM
+- Open Graphics Framework for PS4 Development
 
-## Grand Total
-- 🎮 Native Ports / Recomps: 10
-- 🕹️ Emulators: 7
-- ☁️ Streaming Clients: 1
-- 📺 Media Applications: 2
-- 🔧 System Utilities: 2
-- 🌐 Online Services: 2
-- 🧰 Developer Tools & Infrastructure: 4
+### Vulkan-PS4
+- Vulkan Graphics Layer for PS4 Homebrew
 
-**Total Tracked Projects: 28**
-**Grand Total: 20 PS4-Focused Projects**
+### NX-on-Orbis
+- Nintendo Switch Runtime & Compatibility Research
+
+---
+
+# 📊 Statistics
+
+| Category | Count |
+|-----------|-----------:|
+| 🎮 Native Ports / Recomps | 11 |
+| 🕹️ Emulators | 7 |
+| ☁️ Streaming Clients | 1 |
+| 📺 Media Applications | 2 |
+| 🔧 System Utilities | 3 |
+| 🌐 Online Services | 2 |
+| 🧰 Developer Tools & Infrastructure | 3 |
+
+**Grand Total: 29 Projects**
+
+---
+
+## Future Consideration
+
+Potential future categories:
+
+- 🎲 Homebrew Games
+- 🎵 Audio & Media Plugins
+- 🎨 Themes & UI Mods
+- 🧩 GoldHEN Plugins
+- 👀 Future Watchlist (projects not yet running on PS4)
