@@ -14,3 +14,8 @@
 
 ### [HearBridge-PS4](https://github.com/X-F1REBALL-X/HearBridge-PS4)
 - Bluetooth Audio Streaming
+
+### [PS4 Ambilight](https://github.com/mitchshimy/PS4-Ambilight)
+- Native GoldHEN Ambilight plugin that drives WLED LED strips directly from PS4 video output.
+- No capture card, PC, or camera required.
+- Supports games, Netflix, YouTube, SDR, and HDR.
