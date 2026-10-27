@@ -6,6 +6,39 @@
 - Optical Flow Frame Generation
 - 30FPS → 60Hz
 
+### [OneFamily](https://github.com/ChiricoG/OneFamily)
+- Universal USB Controller Daemon
+- Latest Version: v1.0.0
+
+Supported Controllers:
+- Xbox Series X|S
+- Xbox One
+- Xbox 360
+- XInput Controllers
+- Switch Pro Controller
+- Third-Party Switch Controllers
+- DualSense
+- DualSense Edge
+- DualShock 3
+
+Features:
+- System-Wide Controller Emulation
+- XMB Navigation
+- Settings Navigation
+- Media App Support
+- Game Support
+- Multi-User Profile Assignment
+- Hotplugging
+- Stick Drift Auto Calibration
+- Native PS Button Behavior
+- Trigger/Bumper Remapping
+- GoldHEN Auto-Boot Support
+
+Description:
+OneFamily is a system-level controller daemon that registers supported USB controllers directly into the PS4 input subsystem and exposes them as native DualShock 4 controllers.
+
+---
+
 ### [Xbox Controller Plugin](https://github.com/ChiricoG/xbox_controller_plugin)
 - Xbox Controller Support
 

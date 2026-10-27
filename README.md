@@ -12,12 +12,14 @@ A curated list of ports, recompilations, emulators, applications, plugins, onlin
 | 🕹️ Emulators | 8 |
 | ☁️ Streaming Clients | 1 |
 | 📺 Media Applications | 3 |
-| 📦 Homebrew Applications | 9 |
-| 🔧 System Utilities | 3 |
-| 🧩 GoldHEN Plugins | 4 |
+| 📦 Homebrew Applications | 10 |
+| 🔧 System Utilities | 4 |
+| 🧩 GoldHEN Plugins | 5 |
 | 🌐 Online Services | 3 |
-| 🧰 Developer Tools | 6 |
+| 🧰 Developer Tools | 7 |
 | 🔓 Core Platform | 4 |
+
+Total Tracked Projects: 56
 
 ---
 

@@ -36,5 +36,13 @@
 - WebDAV
 - Google Drive
 
-### File Manager
-- https://pkg-zone.com/details/NPXX33382
+### [OneFamily Companion](https://github.com/ChiricoG/OneFamily)
+- Controller Configuration Utility
+- Deadzone Tuning
+- Stick Calibration
+- Trigger Configuration
+- Controller Mapping
+- Automatic Daemon Installation
+- GoldHEN Auto-Run Configuration
+
+### [File Manager](https://pkg-zone.com/details/NPXX33382)
