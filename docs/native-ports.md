@@ -21,6 +21,23 @@
 - Conker's Bad Fur Day
 - N64Recomp + RT64
 
+### [OrangeBox-PS4](https://github.com/sausage88/OrangeBox-PS4)
+- Status: Released / Early Release
+- Latest Version: v14.13
+- Games: Half-Life 2, Half-Life 2: Episode One, Half-Life 2: Episode Two, Portal, and Half-Life: Source
+- Native Source Engine
+- DualShock 4 Controls and Gyro Support
+- Native PS4 Package with Integrated Content Installer
+
+### [CSS-PS4](https://github.com/sausage88/CSS-PS4)
+- Counter-Strike: Source
+- Status: Released / Early Release
+- Latest Version: v14.13
+- Native Source Engine
+- Online Multiplayer and Community Server Browser
+- FastDL Support and Gyro Support
+- Native Package
+
 ---
 
 ## 🛠 GUI-Based Builders
@@ -37,13 +54,11 @@
 
 ### [BOTW](https://github.com/iHaiDeeZ/BOTW)
 - Native Static Recompilation
-- Boots Successfully
-- Audio Working
-- Save System Working
-- Great Plateau Playable
-- Approximately 9 FPS Outdoors
 - Latest Release: v00.20
-- Status: Early Playable Prototype
+- Status: Playable Prototype
+- Boots; menus, loading screens, audio, and saves work
+- Great Plateau and opening sequence are playable
+- Approximately 9 FPS outdoors
 
 ### [TOTK-PS4](https://github.com/iHaiDeeZ/TOTK-PS4)
 - The Legend of Zelda: Tears of the Kingdom

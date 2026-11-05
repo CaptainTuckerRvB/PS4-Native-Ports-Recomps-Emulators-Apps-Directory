@@ -3,11 +3,12 @@
 [⬅ Back to README](../README.md)
 
 ### [VCFG](https://github.com/Melnikoff07/vcfg)
+- Latest Version: v2.34
 - Optical Flow Frame Generation
 - 30FPS → 60Hz
 
 ### [OneFamily](https://github.com/ChiricoG/OneFamily)
-- Universal USB Controller Daemon
+- System-Level Controller Daemon
 - Latest Version: v1.0.0
 
 Supported Controllers:
@@ -23,14 +24,12 @@ Supported Controllers:
 
 Features:
 - System-Wide Controller Emulation
-- XMB Navigation
-- Settings Navigation
-- Media App Support
+- XMB and System Menu Support
 - Game Support
 - Multi-User Profile Assignment
 - Hotplugging
+- Native DS4 Emulation
 - Stick Drift Auto Calibration
-- Native PS Button Behavior
 - Trigger/Bumper Remapping
 - GoldHEN Auto-Boot Support
 
@@ -52,3 +51,7 @@ OneFamily is a system-level controller daemon that registers supported USB contr
 - Native GoldHEN Ambilight plugin that drives WLED LED strips directly from PS4 video output.
 - No capture card, PC, or camera required.
 - Supports games, Netflix, YouTube, SDR, and HDR.
+
+### [PS4 Plugins Manager](https://github.com/aidam1980/ps4-plugins-manager)
+- Manage installed plugins and edit `plugins.ini`
+- Plugin backups

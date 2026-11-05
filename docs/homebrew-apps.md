@@ -27,14 +27,13 @@
 
 ### [PS MTP Explorer](https://github.com/nueex/ps-mtp-explorer)
 - Android → PS4 Transfers
+- MTP Browser
 - Direct PKG Installation
 
 ### [ezRemote Client](https://github.com/cy33hc/ps4-ezremote-client)
-- FTP
-- SMB
-- NFS
-- WebDAV
+- FTP, SFTP, SMB, NFS, and WebDAV
 - Google Drive
+- Network PKG Installation
 
 ### [OneFamily Companion](https://github.com/ChiricoG/OneFamily)
 - Controller Configuration Utility
@@ -44,5 +43,11 @@
 - Controller Mapping
 - Automatic Daemon Installation
 - GoldHEN Auto-Run Configuration
+
+### [PS4 Plugins Manager](https://github.com/aidam1980/ps4-plugins-manager)
+- Manage and assign installed plugins
+- Edit and manage `plugins.ini`
+- Plugin backup and restore
+- Game-specific plugin profiles
 
 ### [File Manager](https://pkg-zone.com/details/NPXX33382)
