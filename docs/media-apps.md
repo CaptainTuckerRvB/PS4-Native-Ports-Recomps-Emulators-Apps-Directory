@@ -26,3 +26,9 @@
 - FTP
 - SFTP
 - WebDAV
+
+---
+
+### [pPlay](https://github.com/freetushkan/pPlay)
+
+- Media player
