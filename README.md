@@ -8,17 +8,27 @@ A curated list of ports, recompilations, emulators, applications, plugins, onlin
 
 | Category | Count |
 |----------|-------:|
-| 🎮 Native Ports & Recomps | 11 |
+| 🎮 Native Ports & Recomps | 13 |
 | 🕹️ Emulators | 8 |
+<<<<<<< HEAD
 | ☁️ Streaming Clients | 3 |
 | 📺 Media Applications | 4 |
 | 📦 Homebrew Applications | 11 |
 | 🖥️ Operating Systems | 2 |
 | 🔧 System Utilities | 4 |
 | 🧩 GoldHEN Plugins | 5 |
+=======
+| ☁️ Streaming Clients | 1 |
+| 📺 Media Applications | 4 |
+| 📦 Homebrew Applications | 11 |
+| 🔧 System Utilities | 4 |
+| 🧩 GoldHEN Plugins | 6 |
+>>>>>>> 583074569765fd66b2de164e87a0e6a72ee864d8
 | 🌐 Online Services | 3 |
 | 🧰 Developer Tools | 7 |
 | 🔓 Core Platform | 4 |
+
+Total Tracked Projects: 61
 
 ---
 

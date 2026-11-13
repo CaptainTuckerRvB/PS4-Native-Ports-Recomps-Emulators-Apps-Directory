@@ -1,6 +1,6 @@
 # 🕹️ Emulators
 
-[⬅ Back to README](../README.md)
+[← Back to README](../README.md)
 
 ## 🟢 Active
 
@@ -8,20 +8,36 @@
 - Multi-System Emulator Suite
 - Latest Version: v00.21
 
-Supported:
+Supported Systems:
 - SNES
 - NES
 - N64
-- GB/GBC/GBA
-- PS1
-- NDS
-- 3DS
+- Game Boy
+- Game Boy Color
+- Game Boy Advance
+- PlayStation
+- Nintendo DS
+- Nintendo 3DS
 - PSP
 - Dreamcast
 - NAOMI
+- NAOMI 2
 - Atomiswave
-- Genesis
+- SG-1000
+- Master System
+- Game Gear
+- Genesis / Mega Drive
 - Arcade
+
+Features:
+- Unified Launcher
+- Automatic Box Art
+- HD Filters
+- Online Cheats
+- Save States
+- CRT Effects
+- Console Bezels
+- Per-Game Settings
 
 ---
 

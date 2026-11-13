@@ -26,17 +26,21 @@
 - GoldHEN Utility Suite
 
 ### [PS MTP Explorer](https://github.com/nueex/ps-mtp-explorer)
+<<<<<<< HEAD
 - USB MTP file manager for jailbroken PS4 systems
 - Transfers files between Android devices, USB storage, and the PS4
+=======
+- Android → PS4 Transfers
+- MTP Browser
+>>>>>>> 583074569765fd66b2de164e87a0e6a72ee864d8
 - Direct PKG Installation
 
 ### [ezRemote Client](https://github.com/cy33hc/ps4-ezremote-client)
-- FTP
-- SMB
-- NFS
-- WebDAV
+- FTP, SFTP, SMB, NFS, and WebDAV
 - Google Drive
+- Network PKG Installation
 
+<<<<<<< HEAD
 ### File Manager
 - https://pkg-zone.com/details/NPXX33382
 
@@ -48,3 +52,21 @@
 ### [OrbisDesk](https://github.com/jl-casella/OrbisDesk)
 - Experimental Windows compatibility environment for PS4 based on Wine and WoW64
 - Aims to run Windows applications and games on PS4 hardware
+=======
+### [OneFamily Companion](https://github.com/ChiricoG/OneFamily)
+- Controller Configuration Utility
+- Deadzone Tuning
+- Stick Calibration
+- Trigger Configuration
+- Controller Mapping
+- Automatic Daemon Installation
+- GoldHEN Auto-Run Configuration
+
+### [PS4 Plugins Manager](https://github.com/aidam1980/ps4-plugins-manager)
+- Manage and assign installed plugins
+- Edit and manage `plugins.ini`
+- Plugin backup and restore
+- Game-specific plugin profiles
+
+### [File Manager](https://pkg-zone.com/details/NPXX33382)
+>>>>>>> 583074569765fd66b2de164e87a0e6a72ee864d8
