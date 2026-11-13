@@ -38,6 +38,11 @@
 - FastDL Support and Gyro Support
 - Native Package
 
+### ~~[Dusklight for PS4](https://github.com/BgbrhrWatchinOVO/dusklight-ps4)~~
+- ~~Native port of The Legend of Zelda: Twilight Princess based on the Dusklight decompilation~~
+- ~~Runs on GoldHEN, with up to 60 FPS on PS4 Pro~~
+- ~~Requires a user-provided GameCube or Wii game dump; no game data is included~~
+
 ---
 
 ## 🛠 GUI-Based Builders

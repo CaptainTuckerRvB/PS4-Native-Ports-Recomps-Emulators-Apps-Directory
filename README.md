@@ -8,7 +8,7 @@ A curated list of ports, recompilations, emulators, applications, plugins, onlin
 
 | Category | Count |
 |----------|-------:|
-| 🎮 Native Ports & Recomps | 13 |
+| 🎮 Native Ports & Recomps | 14 |
 | 🕹️ Emulators | 8 |
 | ☁️ Streaming Clients | 3 |
 | 📺 Media Applications | 5 |
@@ -20,7 +20,7 @@ A curated list of ports, recompilations, emulators, applications, plugins, onlin
 | 🧰 Developer Tools | 7 |
 | 🔓 Core Platform | 4 |
 
-Total Tracked Projects: 61
+Total Tracked Projects: 62
 
 ---
 
