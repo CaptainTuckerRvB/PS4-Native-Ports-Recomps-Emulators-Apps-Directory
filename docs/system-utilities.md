@@ -21,3 +21,10 @@
 
 - Bluetooth Audio Streaming
 - Web-Based Management
+
+---
+
+### [PS4 Bluetooth Audio](https://github.com/vypr/ps4-bluetooth-audio)
+
+- Experimental GoldHEN payload for Bluetooth audio streaming
+- Streams game audio to Bluetooth headphones and speakers using the PS4's built-in Bluetooth hardware

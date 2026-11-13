@@ -26,7 +26,8 @@
 - GoldHEN Utility Suite
 
 ### [PS MTP Explorer](https://github.com/nueex/ps-mtp-explorer)
-- Android → PS4 Transfers
+- USB MTP file manager for jailbroken PS4 systems
+- Transfers files between Android devices, USB storage, and the PS4
 - Direct PKG Installation
 
 ### [ezRemote Client](https://github.com/cy33hc/ps4-ezremote-client)
@@ -38,3 +39,12 @@
 
 ### File Manager
 - https://pkg-zone.com/details/NPXX33382
+
+### [PS4Mount-PS4](https://github.com/Vld439/PS4Mount-PS4)
+- Run PS4 fake PKGs from USB, internal storage, or network shares without installing them
+- Web management and network transfers
+- Google Drive integration
+
+### [OrbisDesk](https://github.com/jl-casella/OrbisDesk)
+- Experimental Windows compatibility environment for PS4 based on Wine and WoW64
+- Aims to run Windows applications and games on PS4 hardware

@@ -10,11 +10,12 @@ A curated list of ports, recompilations, emulators, applications, plugins, onlin
 |----------|-------:|
 | 🎮 Native Ports & Recomps | 11 |
 | 🕹️ Emulators | 8 |
-| ☁️ Streaming Clients | 1 |
-| 📺 Media Applications | 3 |
-| 📦 Homebrew Applications | 9 |
-| 🔧 System Utilities | 3 |
-| 🧩 GoldHEN Plugins | 4 |
+| ☁️ Streaming Clients | 3 |
+| 📺 Media Applications | 4 |
+| 📦 Homebrew Applications | 11 |
+| 🖥️ Operating Systems | 2 |
+| 🔧 System Utilities | 4 |
+| 🧩 GoldHEN Plugins | 5 |
 | 🌐 Online Services | 3 |
 | 🧰 Developer Tools | 7 |
 | 🔓 Core Platform | 4 |
@@ -29,6 +30,7 @@ A curated list of ports, recompilations, emulators, applications, plugins, onlin
 - ☁️ [Streaming Clients](docs/streaming.md)
 - 📺 [Media Applications](docs/media-apps.md)
 - 📦 [Homebrew Applications](docs/homebrew-apps.md)
+- 🖥️ [Operating Systems](docs/operating-systems.md)
 - 🔧 [System Utilities](docs/system-utilities.md)
 - 🧩 [GoldHEN Plugins](docs/goldhen-plugins.md)
 - 🌐 [Online Services](docs/online-services.md)

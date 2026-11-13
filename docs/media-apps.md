@@ -26,3 +26,9 @@
 - FTP
 - SFTP
 - WebDAV
+
+---
+
+### [PS4 IPTV](https://github.com/realityofai32-stack/PS4-IPTV)
+
+Native IPTV client for jailbroken PS4 consoles with Xtream Codes and M3U/M3U8 support, live TV, movies, series, search, favorites, and offline downloads.

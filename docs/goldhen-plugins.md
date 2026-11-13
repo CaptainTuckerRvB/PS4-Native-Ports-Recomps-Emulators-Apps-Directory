@@ -14,3 +14,6 @@
 
 ### [HearBridge-PS4](https://github.com/X-F1REBALL-X/HearBridge-PS4)
 - Bluetooth Audio Streaming
+
+### [PS4 Bluetooth Audio](https://github.com/vypr/ps4-bluetooth-audio)
+- Experimental GoldHEN payload for streaming game audio to Bluetooth headphones and speakers
