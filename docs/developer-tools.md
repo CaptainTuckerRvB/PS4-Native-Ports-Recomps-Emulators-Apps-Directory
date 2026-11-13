@@ -17,26 +17,6 @@
 
 ---
 
-### [ps4debug-NG](https://github.com/Pharaoh2k/ps4debug-NG)
-- Latest Version: v1.3.2
-
-Features:
-- Process Enumeration
-- Memory Reading
-- Memory Writing
-- Virtual Memory Inspection
-- Freeze Support
-- Kernel Debugging
-- Remote TCP Debugging
-
-Supported Firmware:
-- 5.05 through 13.52
-
-Category:
-Debugging & Reverse Engineering
-
----
-
 ### [OpenGNM](https://github.com/PS4-OpenGNM/opengnm)
 - Open-source implementation of Sony's GNM graphics API.
 
@@ -48,7 +28,6 @@ Debugging & Reverse Engineering
 ---
 
 ### [NX-on-Orbis](https://github.com/alechurri/nx-on-orbis)
-<<<<<<< HEAD
 
 Nintendo Switch compatibility and runtime research for PS4.
 
@@ -101,6 +80,3 @@ The next-generation implementation of ps4debug for jailbroken PlayStation 4 cons
 - Reverse Engineering
 - Cheat Development
 - Game Analysis
-=======
-- Nintendo Switch compatibility and runtime research for PS4.
->>>>>>> 583074569765fd66b2de164e87a0e6a72ee864d8

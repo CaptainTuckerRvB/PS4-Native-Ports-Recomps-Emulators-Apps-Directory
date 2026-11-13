@@ -29,12 +29,10 @@
 
 ---
 
-<<<<<<< HEAD
 ### [PS4 IPTV](https://github.com/realityofai32-stack/PS4-IPTV)
 
 Native IPTV client for jailbroken PS4 consoles with Xtream Codes and M3U/M3U8 support, live TV, movies, series, search, favorites, and offline downloads.
-=======
+
 ### [pPlay](https://github.com/freetushkan/pPlay)
 
 - Media player
->>>>>>> 583074569765fd66b2de164e87a0e6a72ee864d8

@@ -47,10 +47,9 @@ OneFamily is a system-level controller daemon that registers supported USB contr
 ### [HearBridge-PS4](https://github.com/X-F1REBALL-X/HearBridge-PS4)
 - Bluetooth Audio Streaming
 
-<<<<<<< HEAD
 ### [PS4 Bluetooth Audio](https://github.com/vypr/ps4-bluetooth-audio)
 - Experimental GoldHEN payload for streaming game audio to Bluetooth headphones and speakers
-=======
+
 ### [PS4 Ambilight](https://github.com/mitchshimy/PS4-Ambilight)
 - Native GoldHEN Ambilight plugin that drives WLED LED strips directly from PS4 video output.
 - No capture card, PC, or camera required.
@@ -59,4 +58,3 @@ OneFamily is a system-level controller daemon that registers supported USB contr
 ### [PS4 Plugins Manager](https://github.com/aidam1980/ps4-plugins-manager)
 - Manage installed plugins and edit `plugins.ini`
 - Plugin backups
->>>>>>> 583074569765fd66b2de164e87a0e6a72ee864d8
