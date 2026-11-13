@@ -16,7 +16,7 @@ A curated list of ports, recompilations, emulators, applications, plugins, onlin
 | 🔧 System Utilities | 3 |
 | 🧩 GoldHEN Plugins | 4 |
 | 🌐 Online Services | 3 |
-| 🧰 Developer Tools | 6 |
+| 🧰 Developer Tools | 7 |
 | 🔓 Core Platform | 4 |
 
 ---
