@@ -57,6 +57,14 @@
 
 ## 🔵 Playable / Pre-Release
 
+### [GTA IV on PS4](https://github.com/plastikman/gta4-ps4)
+- Grand Theft Auto IV
+- Xbox 360 port running natively on PS4
+- Status: Playable / Pre-Release
+- Latest Release: v0.1.0-ps4
+- Built with Liberty Recomp / OpenOrbis toolchain / Mesa RADV
+- Requires your own copy of the game; no game files included
+
 ### [BOTW](https://github.com/iHaiDeeZ/BOTW)
 - Native Static Recompilation
 - Latest Release: v00.20
